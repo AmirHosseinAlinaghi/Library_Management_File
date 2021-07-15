@@ -1,0 +1,12 @@
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LibraryManagement(AmirHossein Alinaghi).csprojResolveAssemblyReference.cache
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.manage_user.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search_amanat.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.registeruser.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.manage_book.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.registerbook.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.managegroup.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LibraryManagment.Properties.Resources.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.registergroup.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.register_amanat.resources
+E:\Files\HUAWEI Y511-U30\app\library\SQL mode\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\LibraryManagement(AmirHossein Alinaghi).csproj.GenerateResource.Cache
